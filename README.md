@@ -6,10 +6,12 @@ This project focuses on creating a comprehensive financial dashboard for credit 
 ## Project Features
 
 Dashboard Creation: Developed an interactive dashboard that visualizes critical financial data related to credit card usage.
+
 Key Metrics Displayed:
 - Total revenue and expenditures.
 - Customer demographics and spending patterns.
 - Trends in average transactions and high-value consumer segments.
+- 
 Data Analysis: Extracted, cleaned, and processed data to highlight significant patterns in credit card transactions.
 
 ## Technologies Used
